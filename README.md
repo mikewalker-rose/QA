@@ -1,5 +1,5 @@
 ## Welcome!
 
-Here is some initial content for my README
+Here is some initial README content
 
 ...to be continued...
